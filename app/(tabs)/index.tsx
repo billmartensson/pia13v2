@@ -9,7 +9,7 @@ import FancyBox from '@/components/FancyBox';
 
 export default function HomeScreen() {
 
-  const [fruit, setFruit] = useState("kiwi");
+  const [fruit, setFruit] = useState("Äpple");
 
   const [counter, setCounter] = useState(0);
 
