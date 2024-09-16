@@ -34,7 +34,7 @@ export default function HomeScreen() {
         </View>
       </View>
 
-      <View style={{ backgroundColor: "yellow", height: 50, justifyContent: "center", alignItems: "center" }}>
+      <View style={{ backgroundColor: "yellow", height: 150, justifyContent: "center", alignItems: "center" }}>
         <Text>{ fruit }</Text>
       </View>
 
